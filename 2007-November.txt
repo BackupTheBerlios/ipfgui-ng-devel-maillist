@@ -1,0 +1,78 @@
+From amunkres at nyx.net  Sun Nov 25 07:59:29 2007
+From: amunkres at nyx.net (Andrew Munkres)
+Date: Sat, 24 Nov 2007 23:59:29 -0700 (MST)
+Subject: [Ipfgui-ng-devel] Fwd: Delivery Status Notification (Delay)
+In-Reply-To: <dbbc3f5a0711242102q1517ad73h1e4c922fde71101f@mail.gmail.com>
+References: <001636e90cfb043fb82c0e47adfc2@googlemail.com>
+	<dbbc3f5a0711242102q1517ad73h1e4c922fde71101f@mail.gmail.com>
+Message-ID: <Pine.GSO.4.64.0711242357050.14672@nyx3.nyx.net>
+
+I think that the address is ipfgui-ng-devel at lists.berlios.de; I'm sending 
+this message there.
+
+On Sat, 24 Nov 2007, John Schaad wrote:
+
+> Hi, Andrew,
+>
+> This was my first attempt to send an email to the ipfgui-ng-devel
+> list, but it looks like I did not do it correctly.
+>
+> What is the correct email address for this List?
+>
+> Thanks!
+>
+> --John
+>
+>
+>
+> ---------- Forwarded message ----------
+> From: Mail Delivery Subsystem <mailer-daemon at googlemail.com>
+> Date: Nov 24, 2007 7:09 PM
+> Subject: Delivery Status Notification (Delay)
+> To: jgschaad at gmail.com
+>
+>
+> This is an automatically generated Delivery Status Notification
+>
+> THIS IS A WARNING MESSAGE ONLY.
+>
+> YOU DO NOT NEED TO RESEND YOUR MESSAGE.
+>
+> Delivery to the following recipient has been delayed:
+>
+>    ipfui-ng-devel at developer.berlios.de
+>
+> Message will be retried for 2 more day(s)
+>
+> Technical details of temporary failure:
+> TEMP_FAILURE: Could not initiate SMTP conversation with any hosts:
+> [developer.berlios.de (1): Connection timed out]
+>
+>  ----- Message header follows -----
+>
+> Received: by 10.142.82.17 with SMTP id f17mr2717413wfb.1195869421751;
+>       Fri, 23 Nov 2007 17:57:01 -0800 (PST)
+> Received: by 10.143.174.3 with HTTP; Fri, 23 Nov 2007 17:57:01 -0800 (PST)
+> Message-ID: <dbbc3f5a0711231757lc356e75ke795cb7a87232cc4 at mail.gmail.com>
+> Date: Fri, 23 Nov 2007 17:57:01 -0800
+> From: "John Schaad" <jgschaad at gmail.com>
+> To: ipfgui-ng-devel <ipfui-ng-devel at developer.berlios.de>
+> Subject: Mailing List Test - ipfgui-ng
+> MIME-Version: 1.0
+> Content-Type: text/plain; charset=ISO-8859-1
+> Content-Transfer-Encoding: 7bit
+> Content-Disposition: inline
+>
+>  ----- Message body suppressed -----
+>
+
+
+From jgschaad at gmail.com  Sun Nov 25 18:45:14 2007
+From: jgschaad at gmail.com (John Schaad)
+Date: Sun, 25 Nov 2007 09:45:14 -0800
+Subject: [Ipfgui-ng-devel] Test #3
+Message-ID: <dbbc3f5a0711250945m631efe23t55531cb056ba3832@mail.gmail.com>
+
+Test #3 for a message to this list
+
+
